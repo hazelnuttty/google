@@ -45,12 +45,10 @@ const hazelGoogle = require('@hazel/google');
 ```
 ## Installation
 ```
-   bash
 npm install @hazel/google
 ```
 Or using Yarn:
 ```
-   bash
 yarn add @hazel/google
 ```
 
