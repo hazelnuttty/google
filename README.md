@@ -45,10 +45,12 @@ const hazelGoogle = require('@hazel/google');
 ```
 ## Installation
 ```
+   bash
 npm install @hazel/google
 ```
 Or using Yarn:
 ```
+   bash
 yarn add @hazel/google
 ```
 
@@ -60,12 +62,20 @@ yarn add @hazel/google
 ---
 
 ## Developers and Team
-Developer: Hazel
-Team Members: Tian, Finix
+- Developer: Hazel
+- Team : Finix 
 
+---
 
-
+## Thanks To
+- All the teams who contributed during development  
+- MFK Forum for technical tips and discussions  
+- Web Academy Forum for sharing knowledge and solutions  
+- OpenAI for AI tools and inspiration  
+- Stack Overflow for support and programming solutions
 ---
 
 ## License
 This project is licensed under the Apache-2.0 License.
+
+"license": "Apache-2.0 License.",
