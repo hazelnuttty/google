@@ -1,15 +1,27 @@
-const search = require('./modules/search');
-const images = require('./modules/images');
-const news = require('./modules/news');
-const scholar = require('./modules/scholar');
-const maps = require('./modules/maps');
-const trends = require('./modules/trends');
+const { googleSearch } = require('./modules/search');
+const { googleImages } = require('./modules/images');
+const { googleNews } = require('./modules/news');
+const { googleScholar } = require('./modules/scholar');
+const { googleMaps } = require('./modules/maps');
+const { googleTrends } = require('./modules/trends');
+const { googleVideos } = require('./modules/videos');
+const { googleBooks } = require('./modules/books');
+const { googleShopping } = require('./modules/shopping');
+const { googleFinance } = require('./modules/finance');
+const { googleTranslate } = require('./modules/translate');
+const { googleAutocomplete } = require('./modules/autocomplete');
 
 module.exports = {
-  search,
-  images,
-  news,
-  scholar,
-  maps,
-  trends
+    googleSearch,
+    googleImages,
+    googleNews,
+    googleScholar,
+    googleMaps,
+    googleTrends,
+    googleVideos,
+    googleBooks,
+    googleShopping,
+    googleFinance,
+    googleTranslate,
+    googleAutocomplete
 };
