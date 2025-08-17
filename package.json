@@ -1,5 +1,5 @@
 {
-  "name": "@hazel-google",
+  "name": "@hazel/google",
   "version": "1.0.0",
   "description": "All-in-one Google scrapers: Search, Images, News, Scholar, Maps, Trends",
   "main": "src/index.js",
@@ -8,10 +8,10 @@
   },
   "keywords": ["google", "scraper", "search", "images", "news", "scholar", "maps", "trends"],
   "author": "Hazel",
-  "license": "MIT",
+  "license": "Apache-2.0 License.",
   "dependencies": {
-    "axios": "^1.6.0",
-    "cheerio": "^1.0.0-rc.12",
-    "random-useragent": "^0.3.2"
+    "axios": "latest",
+    "cheerio": "latest",
+    "random-useragent": "latest"
   }
 }
