@@ -63,7 +63,7 @@ yarn add @hazel/google
 
 ## Developers and Team
 - Developer: Hazel
-- Team : Finix 
+- Team : Finix, Nathan
 
 ---
 
