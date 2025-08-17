@@ -1,5 +1,5 @@
 {
-  "name": "@hazel/google",
+  "name": "@hazeloffc/google",
   "version": "1.0.0",
   "description": "All-in-one Google scrapers: Search, Images, News, Scholar, Maps, Trends",
   "main": "src/index.js",
